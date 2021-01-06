@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
-    url: https://github.community/
+  - name: Create New Offer
+    url: new_offer.md
     about: Please ask and answer questions here.
   - name: GitHub Security Bug Bounty
     url: https://bounty.github.com/
