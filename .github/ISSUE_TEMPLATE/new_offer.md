@@ -4,8 +4,7 @@ name: New Offer
 about: Create new Offer on MarketPlace
 title: ''
 labels: ''
-assignees: ''
-
+assignees: '' 
 ---
 
 **Product**
