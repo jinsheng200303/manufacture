@@ -1,7 +1,7 @@
 ---
 name: Create New Offer
 about: Describe this issue template's purpose here.
-title: ''
+title: 'New Offer on Azure/AWS/Aliyun/AlibabaCloud'
 labels: ''
 assignees: ''
 
@@ -26,3 +26,4 @@ A clear and concise description of what the bug is.
 - [ ] Returned
 - [ ] Rejected
 - [ ] Publish successfully
+- [ ] Online test error
