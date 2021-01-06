@@ -1,9 +1,9 @@
 ---
 name: Create New Offer
 about: Describe this issue template's purpose here.
-title: 'New Offer on Azure/AWS/Aliyun/AlibabaCloud'
+title: 'New Offer on Azure/AWS/阿里云/华为云/腾讯云/AlibabaCloud/HUAWEICLOUD'
 labels: 'enhancement'
-assignees: ''
+assignees: 'morning-tan'
 
 ---
 
