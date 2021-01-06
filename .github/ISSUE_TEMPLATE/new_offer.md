@@ -1,11 +1,14 @@
-
 ---
-name: New Offer
-about: Create new Offer on MarketPlace
+name: Create New Offer
+about: Describe this issue template's purpose here.
 title: ''
 labels: ''
-assignees: '' 
+assignees: ''
+
 ---
+
+
+
 
 **Product**
 
