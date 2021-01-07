@@ -1,7 +1,7 @@
 ---
-name: New Offer
-about: 新增一个商品以及计划的 SKU
-title: 'New Offer on Azure/AWS/阿里云/华为云/腾讯云/AlibabaCloud/HUAWEICLOUD'
+name: New SKU
+about: 针对具体商品新增其 SKU
+title: 'New SKU on Azure/AWS/阿里云/华为云/腾讯云/AlibabaCloud/HUAWEICLOUD'
 labels: 'enhancement'
 assignees: 'morning-tan'
 
