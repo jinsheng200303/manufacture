@@ -8,7 +8,8 @@ assignees:
 ---
 
 
-**Offer ID**
+**Image ID**
+
 Wordpress5.6-LAMP-centos
 - [ ] Azure
 - [ ] Aws
