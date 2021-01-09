@@ -29,6 +29,7 @@ Wordpress5.6-LAMP-centos
 - [ ] 测试通过，确认打包成镜像
 - [ ] 测试不通过，在Github提交issue
 - [ ] 开机测试-进入云平台通过镜像创建实例，按生产测试流程测试，通过测试，填写下列信息，结束该任务
+      
       Image name：
       Component：
       
