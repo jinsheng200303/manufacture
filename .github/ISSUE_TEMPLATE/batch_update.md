@@ -10,12 +10,12 @@ assignees: 'morning-tan'
 
 **Offer ID**
 
-- [ ] redis28-ubuntu1804
 - [ ] Wordpress-centos77
+
+需提image name \ components
 
 **Steps**
 
-- [ ] Build image
 - [ ] Creating
 - [ ] Submited
 - [ ] Returned
