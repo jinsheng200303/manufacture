@@ -1,6 +1,6 @@
 ---
-name: 批量更新商品的【】问题
-about: 在一个云平台上更新一序列商品的同类信息
+name: 批量修正商品存在的【】问题
+about: 在一个云平台上批量修正一序列商品的同类问题
 title: '批量更新商品 on Azure/AWS/阿里云/华为云/腾讯云/AlibabaCloud/HUAWEICLOUD'
 labels: 'enhancement'
 assignees: 'morning-tan'
