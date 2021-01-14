@@ -1,15 +1,14 @@
 ---
-name: 商品生产与上架任务
-about: 依据产品设计规范和运行规范制作镜像，并通过两项测试生产合格商品；将合格商品在各大云平台上架。
-title: '通过自动打包系统在各个云平台制作镜像并上架
-labels: 'new'
+name: 商品生产与上架
+about: 依据产品设计规范和运行规范制作镜像，并通过两项测试生产合格商品；将合格商品在各大云平台上架
+title: 通过自动打包系统在各个云平台制作镜像并上架
+labels: 
 assignees: 
-
 
 ---
 
 
-**要求**
+**生产要求**
 
 - 产品设计规范：https://github.com/websoft9/ansible-wordpress
 - 产品运行规范：https://support.websoft9.com/docs/wordpress/zh/stack-installation.html
@@ -44,21 +43,12 @@ image name:
 components:
 
 
-**要求**
+**上架要求**
 
 - 明确商品分类
 - 明确商品亮点
 - 核实主数据信息
 
-**平台**
-
-- [ ] Azure
-- [ ] Aws
-- [ ] 阿里云
-- [ ] 腾讯云
-- [ ] 华为云
-- [ ] AlibabaCloud
-- [ ] HUWEICloud
 
 **Steps**
 
