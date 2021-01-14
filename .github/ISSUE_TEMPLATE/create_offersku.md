@@ -16,6 +16,7 @@ assignees:
 - 必须经过两轮测试，符合产品运行规范，才算合格商品：生产过程测试运行界面\服务启动\数据库可视化界面；开机测试：生产过程测试+随机密码测试
 
 **Offer Name**
+
 Wordpress5.6-LAMP-centos
 
 **平台**
@@ -42,9 +43,6 @@ Wordpress5.6-LAMP-centos
 image name:
 components:
 
-
-
-# 商品上架
 
 **要求**
 
