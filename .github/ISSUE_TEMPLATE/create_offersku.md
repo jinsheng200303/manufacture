@@ -50,13 +50,14 @@ components:
 - 核实主数据信息
 
 
-**Steps**
+**上架步骤**
 
 - [ ] created
 - [ ] submited
 - [ ] Returned
 - [ ] Rejected
-- [ ]  Publish successfully
-- [ ]  Online test error
+- [ ] Publish successfully
+- [ ] 分发全球地区
+- [ ] Online test error
 
 发布成功后要购买测试
