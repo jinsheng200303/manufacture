@@ -59,5 +59,6 @@ components:
 - [ ] Publish successfully
 - [ ] 分发全球地区
 - [ ] Online test error
+- [ ] 删除镜像和快照
 
 发布成功后要购买测试
