@@ -52,13 +52,12 @@ components:
 
 **上架步骤**
 
-- [ ] created
-- [ ] submited
-- [ ] Returned
-- [ ] Rejected
-- [ ] Publish successfully
-- [ ] 分发全球地区
-- [ ] Online test error
+- [ ] 填写信息
+- [ ] 已提交
+- [ ] 主动撤回
+- [ ] 被拒
+- [ ] 发布中
+- [ ] 分发全球中
+- [ ] 购买测试成功
+- [ ] 购买测试失败
 - [ ] 删除镜像和快照
-
-发布成功后要购买测试
