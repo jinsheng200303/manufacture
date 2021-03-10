@@ -33,7 +33,7 @@ assignees:
 
 **生产**
 
-参考：[Github](https://github.com/websoft9/ansible-wordpress), [产品文档](https://support.websoft9.com/docs/wordpress/zh/stack-installation.html) 
+参考：[Github](https://github.com/websoft9/ansible-wordpress), [产品文档](https://support.websoft9.com/docs/wordpress/zh/stack-installation.html)   
 测试：必须经过两轮测试，符合产品运行规范，才算合格商品：生产过程测试运行界面\服务启动\数据库可视化界面；开机测试：生产过程测试+随机密码测试
 
 - [ ] 生产前准备：查阅Github项目主页，确认软件和OS版本
