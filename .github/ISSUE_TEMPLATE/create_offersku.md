@@ -36,12 +36,12 @@ assignees:
 参考：[Github项目主页](https://github.com/websoft9/ansible-wordpress), [产品文档](https://support.websoft9.com/docs/wordpress/zh/stack-installation.html)   
 测试：必须两轮测试，第一轮测试：运行界面\服务启动\数据库可视化界面；第二轮测试：第一轮测试内容+随机密码测试
 
-- [ ] 生产前准备：查阅Github项目主页，确认软件和OS版本
+- [ ] 生产准备：查阅Github项目主页，确认软件和OS版本
 - [ ] 安装应用：基于mcloud，安装出错，提交issue，终止
 - [ ] 第一轮测试：对安装结果进行测试，出错或不符合预期，提交issue，终止
 - [ ] 打包镜像
 - [ ] 第二轮测试：对开机结果进行测试，出错或不符合预期，提交issue，终止
-- [ ] 填写组件信息
+- [ ] 填写组件
 - [ ] 完成生产
 
 **上架**
