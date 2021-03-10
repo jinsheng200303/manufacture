@@ -8,15 +8,17 @@ assignees:
 ---
 
 
-**生产要求**
+**镜像信息**
 
-- 产品设计规范：https://github.com/websoft9/ansible-wordpress
-- 产品运行规范：https://support.websoft9.com/docs/wordpress/zh/stack-installation.html
-- 必须经过两轮测试，符合产品运行规范，才算合格商品：生产过程测试运行界面\服务启动\数据库可视化界面；开机测试：生产过程测试+随机密码测试
+镜像制作完成，需完善组件信息  
 
-**Offer Name**
+```
+示例：Wordpress5.6-LAMP-CentOS7.7  
+组件：WordPress5.6, Apache2.4, phpMyAdmin, MySQL  
 
-Wordpress5.6-LAMP-centos
+示例：Gitlab12.4-CentOS7.7  
+组件：Gitlab12, PostgreSQL11, pgAdmin  
+```
 
 **平台**
 
@@ -27,30 +29,24 @@ Wordpress5.6-LAMP-centos
 - [ ] 华为云
 - [ ] AlibabaCloud
 - [ ] HUWEICloud
+- [ ] GoogleCLoud
 
-**Steps**
+**生产**
 
-- [ ] 确定软件版本、操作系统-在Github阅读产品规范
-- [ ] 自动化打包生产
-- [ ] 运行出错，在Github提交issue
-- [ ] 运行完成，进行生产测试-根据产品文档进行测试，测试商品是否符合设计要求
-- [ ] 测试不通过，在Github提交issue
-- [ ] 测试通过，确认打包成镜像
-- [ ] 开机测试
-- [ ] 测试不通过，在Github提交issue
-- [ ] 测试通过，填写商品组件信息，结束该任务
-image name:
-components:
+参考：[Github](https://github.com/websoft9/ansible-wordpress), [产品文档](https://support.websoft9.com/docs/wordpress/zh/stack-installation.html) 
+测试：必须经过两轮测试，符合产品运行规范，才算合格商品：生产过程测试运行界面\服务启动\数据库可视化界面；开机测试：生产过程测试+随机密码测试
 
+- [ ] 生产前准备：查阅Github项目主页，确认软件和OS版本
+- [ ] 安装应用：基于mcloud，安装出错，提交issue，终止
+- [ ] 第一轮测试：测试出错或不符合预期，提交issue，终止
+- [ ] 打包镜像
+- [ ] 第二轮测试：测试出错或不符合预期，提交issue，终止
+- [ ] 填写商品组件信息
+- [ ] 结束
 
-**上架要求**
+**上架**
 
-- 明确商品分类
-- 明确商品亮点
-- 核实主数据信息
-
-
-**上架步骤**
+重点关注：所属分类、亮点提炼、主数据核实
 
 - [ ] 填写信息
 - [ ] 已提交
