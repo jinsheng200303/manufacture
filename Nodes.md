@@ -55,5 +55,5 @@
 #### 计算方法与公式
 1. 完成面板过滤责任者后
 2. 工资公式  
-责任者工资为=Lable为空issue数量*5 + Lable为【第2次生产】issue数量*5*2 + 。。。 + Lable为【bug-产品故障】issue数量*10 ± Lable为【bug-生产过失】issue数量*10
+责任者工资为=Lable为空issue数量x5 + Lable为【第2次生产】issue数量x5x2 + 。。。 + Lable为【bug-产品故障】issue数量x10 ± Lable为【bug-生产过失】issue数量x10
 （奖惩请参照BUG分类原则）
