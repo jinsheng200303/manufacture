@@ -2,7 +2,7 @@
    "mailstone": "20221208",
    "task":[
      {
-	  "appname": "mysql",
+      "appname": "mysql",
       "version": 5.7,
       "distribution": "CE",
       "platform": "阿里云+",
@@ -10,23 +10,23 @@
       "assignees": "张露",	   
 	 },
      {
-	  "appname": "mysql",
+      "appname": "mysql",
       "version": 8.0,
       "distribution": "CE",
       "platform": "阿里云+",
       "os": "Ubuntu22.04",
       "assignees": "徐月婷",	   
-	 },
+     },
      {
-	  "appname": "mysql",
+      "appname": "mysql",
       "version": 5.7,
       "distribution": "CE",
       "platform": "华为云",
       "os": "Ubuntu20.04",
       "assignees": "王思雨",	   
-	 },
+     },
      {
-	  "appname": "mysql",
+      "appname": "mysql",
       "version": 8.0,
       "distribution": "CE",
       "platform": "华为云",
@@ -34,14 +34,14 @@
       "assignees": "童佳颖",	   
 	 },
      {
-	  "appname": "mysql",
+      "appname": "mysql",
       "version": 5.7,
       "distribution": "CE",
       "platform": "Azure",
       "os": "Ubuntu22.04",
       "assignees": "王思雨",	   
 	 },	 
-	 {
+      {
 	  "appname": "mysql",
       "version": 5.7,
       "distribution": "CE",
