@@ -118,7 +118,7 @@
 	  ]
      },
      { "appname": "Oracle",
-	   "app-sku": [
+	"app-sku": [
 		 {
 		  "version": "21c",
 		  "distribution": "express",
@@ -133,7 +133,7 @@
 		  "os": "Ubuntu22.04",
 		  "assignees": "童佳颖",	   
 		 }
-	  ]
-	}	 
+	   ]
+     }	 
    ]
 }
