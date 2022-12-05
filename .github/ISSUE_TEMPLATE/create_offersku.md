@@ -16,18 +16,6 @@ assignees:
 此处增加版本信息，由生产人员填写
 ```
 
-## 平台
-
-- [ ] Azure
-- [ ] AWS
-- [ ] AWS(中国)
-- [ ] 阿里云
-- [ ] 腾讯云
-- [ ] 华为云
-- [ ] AlibabaCloud
-- [ ] HUWEICloud
-- [ ] GoogleCLoud
-
 ## 评估
 
 - [ ] 评估通过
