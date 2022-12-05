@@ -10,7 +10,7 @@ assignees:
 
 ## 商品信息
 
-### nodejs13-mongo4.2-CentOS7.9
+### 
 
 ```
 此处增加版本信息，由生产人员填写
