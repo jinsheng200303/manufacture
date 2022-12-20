@@ -5,7 +5,7 @@
       "appname": "MinIO",
       "version": ["latest"],
       "distribution": ["Community"],
-      "platform": ["阿里云"],
+      "platform": ["华为云"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
      }
