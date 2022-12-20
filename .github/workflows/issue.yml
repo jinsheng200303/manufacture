@@ -7,7 +7,7 @@ on:
 jobs:
   createIssue:
     env:
-      GH_TOKEN: ${{secrets.ACCESS_TOKEN}}
+      GH_TOKEN: ${{secrets.ISSUE_TOKEN}}
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -49,7 +49,7 @@ jobs:
         length=$(echo $list | jq '.|length')
         project_id=$(curl --request POST \
             --url https://api.github.com/graphql \
-            --header 'Authorization: Bearer ${{ secrets.ACCESS_TOKEN }}' \
+            --header 'Authorization: Bearer ${{ secrets.ISSUE_TOKEN }}' \
             --data '{"query":"query{organization(login: \"Websoft9\") {projectV2(number: 11){id}}}"}')
         echo $project_id
         declare -A map
@@ -73,7 +73,7 @@ jobs:
             https://api.github.com/repos/${{github.repository_owner}}/manufacture/issues/$issue_number | jq -r .node_id)
           curl --request POST \
             --url https://api.github.com/graphql \
-            --header 'Authorization: Bearer ${{ secrets.ACCESS_TOKEN }}' \
+            --header 'Authorization: Bearer ${{ secrets.ISSUE_TOKEN }}' \
             --data '{"query":"mutation {addProjectV2ItemById(input: {projectId: \"'$project_id'\" contentId: \"'$issue_id'\"}) {item {id}}}"}'
         done
 
