@@ -73,7 +73,7 @@ jobs:
             https://api.github.com/repos/${{github.repository_owner}}/manufacture/issues/$issue_number | jq -r .node_id)
           curl --request POST \
             --url https://api.github.com/graphql \
-            --header 'Authorization: Bearer ${{ secrets.ACCESS_PROJECT }}' \
+            --header 'Authorization: Bearer ${{ secrets.ACCESS_TOKEN }}' \
             --data '{"query":"mutation {addProjectV2ItemById(input: {projectId: \"'$project_id'\" contentId: \"'$issue_id'\"}) {item {id}}}"}'
         done
 
