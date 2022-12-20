@@ -49,7 +49,7 @@ jobs:
         length=$(echo $list | jq '.|length')
         project_id=$(curl --request POST \
             --url https://api.github.com/graphql \
-            --header 'Authorization: Bearer TOKEN' \
+            --header 'Authorization: Bearer ${{ secrets.ACCESS_TOKEN }}' \
             --data '{"query":"query{organization(login: \"Websoft9\") {projectV2(number: 11){id}}}"}')
         
         declare -A map
