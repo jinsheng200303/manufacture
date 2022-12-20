@@ -6,7 +6,7 @@
       "version": ["latest"],
       "distribution": ["Community"],
       "platform": ["阿里云"],
-      "os": ["Ubuntu22.04"],
+      "os": ["Ubuntu"],
       "assignees": "张露"
      }
   ]
