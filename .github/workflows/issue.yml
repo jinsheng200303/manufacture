@@ -50,7 +50,7 @@ jobs:
         project_id=$(curl --request POST \
             --url https://api.github.com/graphql \
             --header 'Authorization: Bearer ${{ secrets.ISSUE_TOKEN }}' \
-            --data '{"query":"query{organization(login: \"Websoft9\") {projectV2(number: 11){id}}}"}')
+            --data '{"query":"query{organization(login: \"Websoft9\") {projectV2(number: 11){id}}}"}' | jq -r .data.organization.projectV2.id)
         echo $project_id
         declare -A map
         map=(["童颖佳"]="Tooy1011" ["张露"]="zl-go" ["王思宇"]="LalicNine" ["徐月婷"]="xyt52")
@@ -64,7 +64,7 @@ jobs:
           os=$(echo $list | jq -r ".[$index].os")
           assignee=${map[$(echo $list | jq -r ".[$index].assignees")]}
           stone=$(echo $milestone | sed 's/\"//g')
-          issue_number=$(gh issue create --assignee $assignee --title "$appname$version $distribution on $os on $platform" --body-file template.md --milestone $stone | awk -F "/" '{print $NF}')
+          issue_number=$(gh issue create --assignee $assignee --title "$appname $distribution $version on $os on $platform" --body-file template.md --milestone $stone | awk -F "/" '{print $NF}')
           # 关联project
           issue_id=$(curl \
             -H "Accept: application/vnd.github+json" \
