@@ -51,7 +51,7 @@ jobs:
             --url https://api.github.com/graphql \
             --header 'Authorization: Bearer ${{ secrets.ACCESS_TOKEN }}' \
             --data '{"query":"query{organization(login: \"Websoft9\") {projectV2(number: 11){id}}}"}')
-        
+        echo $project_id
         declare -A map
         map=(["童颖佳"]="Tooy1011" ["张露"]="zl-go" ["王思宇"]="LalicNine" ["徐月婷"]="xyt52")
         
