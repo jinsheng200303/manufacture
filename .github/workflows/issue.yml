@@ -7,7 +7,7 @@ on:
 jobs:
   createIssue:
     env:
-      GH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      GH_TOKEN: ${{secrets.ACCESS_TOKEN}}
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
