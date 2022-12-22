@@ -2,19 +2,59 @@
    "mailstone": "20221222",
    "task":[
      {
-      "appname": "scratch",
-      "version": ["3.0"],
+      "appname": "Neo4j",
+      "version": ["3.5","4.0","4.2","4.3","4.4","4.4","5.3"],
       "distribution": ["Community"],
-      "platform": ["阿里云","华为云"],
-      "os": ["Ubuntu"],
+      "platform": ["Azure"],
+      "os": ["Ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "MinIo",
-      "version": ["latest"],
+      "appname": "Neo4j",
+      "version": ["5.3"],
+      "distribution": ["Community"],
+      "platform": ["AWS"],
+      "os": ["AmazonLinux"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "Neo4j",
+      "version": ["5.3"],
       "distribution": ["Community"],
       "platform": ["阿里云"],
-      "os": ["Ubuntu"],
+      "os": ["AmazonLinux"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "Postgresql",
+      "version": ["15"],
+      "distribution": ["Community"],
+      "platform": ["AWS"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "Postgresql",
+      "version": ["15"],
+      "distribution": ["Community"],
+      "platform": ["Azure"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     }
+     {
+      "appname": "MongoDB",
+      "version": ["6.0"],
+      "distribution": ["Community"],
+      "platform": ["AWS"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "MongoDB",
+      "version": ["6.0"],
+      "distribution": ["Community"],
+      "platform": ["Azure"],
+      "os": ["Ubuntu22.04"],
       "assignees": "张露"
      }
   ]
