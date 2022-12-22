@@ -3,7 +3,7 @@
    "task":[
      {
       "appname": "Neo4j",
-      "version": ["3.5","4.0","4.2","4.3","4.4","4.4","5.3"],
+      "version": ["3.5","4.0","4.2","4.3","4.4","5.3"],
       "distribution": ["Community"],
       "platform": ["Azure"],
       "os": ["Ubuntu22.04"],
@@ -40,7 +40,7 @@
       "platform": ["Azure"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
-     }
+     },
      {
       "appname": "MongoDB",
       "version": ["6.0"],
