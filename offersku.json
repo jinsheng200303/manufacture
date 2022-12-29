@@ -1,20 +1,28 @@
 {  
-   "mailstone": "20221222",
+   "mailstone": "20221229",
    "task":[
      {
-      "appname": "gitlab",
-      "version": ["15.6"],
-      "distribution": ["极狐中文"],
-      "platform": ["阿里云"],
+      "appname": "wordpress",
+      "version": ["6.1"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
-     },
-     {
-      "appname": "gitlab",
-      "version": ["15.6"],
-      "distribution": ["极狐中文"],
-      "platform": ["华为云"],
-      "os": ["Ubuntu20.04"],
+     }，
+    {
+      "appname": "wordpress",
+      "version": ["MinIO"],
+      "distribution": ["solution"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     }，
+    {
+      "appname": "wordpress",
+      "version": ["Matomo"],
+      "distribution": ["solution"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
       "assignees": "张露"
      }
   ]
