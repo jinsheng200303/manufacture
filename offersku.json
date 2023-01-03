@@ -1,107 +1,67 @@
 {  
    "mailstone": "20230105",
    "task":[
-     {
-      "appname": "dolibarr",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云","Azure"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "drupal",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云","Azure"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-    {
-      "appname": "erpnext",
-      "version": ["14"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
 	 {
-      "appname": "ghost",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-	 {
-      "appname": "erpnext",
-      "version": ["14","13"],
+      "appname": "haproxy",
+      "version": ["1.7","1.8","2.0","2.2","2.3","2.4","2.5"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
       "assignees": "张露"
      },
 	 {
-      "appname": "espocrm",
+      "appname": "kafka",
+      "version": ["2.4","2.5","2.6","2,7","2.8","3.0","3.1","3.2"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["centos7.9"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "haproxy",
+      "version": ["2.5"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "mattermost",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "mediawiki",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云","Azure"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "knowage",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "knowage",
       "version": ["latest"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
       "assignees": "张露"
      },
-	 {
-      "appname": "espocrm",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-	 {
-      "appname": "gitlab",
-      "version": ["latest"],
-      "distribution": ["community","极狐中文"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-	 {
-      "appname": "grafana",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
     {
-      "appname": "graylog",
-      "version": ["latest"],
+      "appname": "kafka",
+      "version": ["3.2","3.0"],
       "distribution": ["community"],
       "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-    {
-      "appname": "graylog",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["Azure"],
-      "os": ["Ubuntu22.04","Centos7.9"],
-      "assignees": "张露"
-     },
-    {
-      "appname": "jenkins",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-    {
-      "appname": "joomla",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云","Azure"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
      }
