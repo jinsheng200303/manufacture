@@ -2,15 +2,79 @@
    "mailstone": "20230105",
    "task":[
      {
-      "appname": "owncloud",
+      "appname": "activemq",
+      "version": ["latest"],
+      "distribution": ["CLASSIC"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "alfresco",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "bt",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+	 {
+      "appname": "cloudbeaver",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+	 {
+      "appname": "cloudbeaver",
       "version": ["latest"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
      },
-     {
-      "appname": "owncloud",
+	 {
+      "appname": "codeserver",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["centos7.9"],
+      "assignees": "张露"
+     },
+	 {
+      "appname": "codeserver",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+	 {
+      "appname": "couchdb",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["centos7.9"],
+      "assignees": "张露"
+     },
+	 {
+      "appname": "couchdb",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "discuzq",
       "version": ["latest"],
       "distribution": ["community"],
       "platform": ["腾讯云"],
@@ -18,16 +82,16 @@
       "assignees": "张露"
      },
     {
-      "appname": "mysql",
-      "version": ["5.5","5.6","5.7","8.0"],
+      "appname": "discuz",
+      "version": ["latest"],
       "distribution": ["community"],
       "platform": ["腾讯云"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
      },
     {
-      "appname": "mariadb",
-      "version": ["10.1","10.2","10.3","10.4","10.8"],
+      "appname": "couchdb",
+      "version": ["latest"],
       "distribution": ["community"],
       "platform": ["腾讯云"],
       "os": ["Ubuntu22.04"],
