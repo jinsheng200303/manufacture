@@ -2,23 +2,31 @@
    "mailstone": "20230105",
    "task":[
      {
-      "appname": "activemq",
+      "appname": "dolibarr",
       "version": ["latest"],
-      "distribution": ["CLASSIC"],
-      "platform": ["腾讯云"],
+      "distribution": ["community"],
+      "platform": ["腾讯云","Azure"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "alfresco",
+      "appname": "drupal",
       "version": ["latest"],
       "distribution": ["community"],
-      "platform": ["腾讯云"],
+      "platform": ["腾讯云","Azure"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
      },
     {
-      "appname": "bt",
+      "appname": "erpnext",
+      "version": ["14"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+	 {
+      "appname": "ghost",
       "version": ["latest"],
       "distribution": ["community"],
       "platform": ["腾讯云"],
@@ -26,23 +34,15 @@
       "assignees": "张露"
      },
 	 {
-      "appname": "cloudbeaver",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-	 {
-      "appname": "cloudbeaver",
-      "version": ["latest"],
+      "appname": "erpnext",
+      "version": ["14","13"],
       "distribution": ["community"],
       "platform": ["Azure"],
-      "os": ["Ubuntu22.04"],
+      "os": ["centos7.9"],
       "assignees": "张露"
      },
 	 {
-      "appname": "codeserver",
+      "appname": "espocrm",
       "version": ["latest"],
       "distribution": ["community"],
       "platform": ["Azure"],
@@ -50,31 +50,47 @@
       "assignees": "张露"
      },
 	 {
-      "appname": "codeserver",
+      "appname": "espocrm",
       "version": ["latest"],
       "distribution": ["community"],
-      "platform": ["Azure"],
+      "platform": ["腾讯云"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
      },
 	 {
-      "appname": "couchdb",
+      "appname": "gitlab",
       "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["Azure"],
-      "os": ["centos7.9"],
+      "distribution": ["community","极狐中文"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
       "assignees": "张露"
      },
 	 {
-      "appname": "couchdb",
+      "appname": "grafana",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "graylog",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "graylog",
       "version": ["latest"],
       "distribution": ["community"],
       "platform": ["Azure"],
-      "os": ["Ubuntu22.04"],
+      "os": ["Ubuntu22.04","Centos7.9"],
       "assignees": "张露"
      },
     {
-      "appname": "discuzq",
+      "appname": "jenkins",
       "version": ["latest"],
       "distribution": ["community"],
       "platform": ["腾讯云"],
@@ -82,18 +98,10 @@
       "assignees": "张露"
      },
     {
-      "appname": "discuz",
+      "appname": "joomla",
       "version": ["latest"],
       "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-    {
-      "appname": "couchdb",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
+      "platform": ["腾讯云","Azure"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
      }
