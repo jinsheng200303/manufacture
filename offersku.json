@@ -1,26 +1,34 @@
 {  
-   "mailstone": "20221229",
+   "mailstone": "20230105",
    "task":[
      {
-      "appname": "wordpress",
-      "version": ["6.1"],
+      "appname": "owncloud",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "owncloud",
+      "version": ["latest"],
       "distribution": ["community"],
       "platform": ["腾讯云"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
      },
     {
-      "appname": "wordpress",
-      "version": ["MinIO"],
-      "distribution": ["solution"],
+      "appname": "mysql",
+      "version": ["5.5","5.6","5.7","8.0"],
+      "distribution": ["community"],
       "platform": ["腾讯云"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
      },
     {
-      "appname": "wordpress",
-      "version": ["Matomo"],
-      "distribution": ["solution"],
+      "appname": "mariadb",
+      "version": ["10.1","10.2","10.3","10.4","10.8"],
+      "distribution": ["community"],
       "platform": ["腾讯云"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
