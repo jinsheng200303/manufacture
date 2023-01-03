@@ -1,32 +1,8 @@
 {  
-   "mailstone": "20230105",
+   "mailstone": "20230106",
    "task":[
-	 {
-      "appname": "haproxy",
-      "version": ["1.7","1.8","2.0","2.2","2.3","2.4","2.5"],
-      "distribution": ["community"],
-      "platform": ["Azure"],
-      "os": ["centos7.9"],
-      "assignees": "张露"
-     },
-	 {
-      "appname": "kafka",
-      "version": ["2.4","2.5","2.6","2,7","2.8","3.0","3.1","3.2"],
-      "distribution": ["community"],
-      "platform": ["Azure"],
-      "os": ["centos7.9"],
-      "assignees": "张露"
-     },
     {
-      "appname": "haproxy",
-      "version": ["2.5"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-    {
-      "appname": "mattermost",
+      "appname": "onlyoffice",
       "version": ["latest"],
       "distribution": ["community"],
       "platform": ["腾讯云"],
@@ -34,32 +10,96 @@
       "assignees": "张露"
      },
     {
-      "appname": "mediawiki",
+      "appname": "memcached",
       "version": ["latest"],
       "distribution": ["community"],
-      "platform": ["腾讯云","Azure"],
+      "platform": ["腾讯云"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
-     },
+     }, 
     {
-      "appname": "knowage",
+      "appname": "metabase",
       "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     }, 
+    {
+      "appname": "moodle",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     }, 
+    {
+      "appname": "mongodb",
+      "version": ["6.0","5.0","4.4"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     }, 
+    {
+      "appname": "0doo",
+      "version": ["16","15","14","13","12"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     }, 
+    {
+      "appname": "Postgresql",
+      "version": ["15","14","13","12","11"],
       "distribution": ["community"],
       "platform": ["腾讯云"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
      },
     {
-      "appname": "knowage",
+      "appname": "redis",
+      "version": ["7.0","6.2","6.0"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     }, 	 
+    {
+      "appname": "opencart",
       "version": ["latest"],
       "distribution": ["community"],
-      "platform": ["Azure"],
-      "os": ["centos7.9"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
       "assignees": "张露"
-     },
+     }, 
     {
-      "appname": "kafka",
-      "version": ["3.2","3.0"],
+      "appname": "prestashop",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     }, 
+    {
+      "appname": "rabbitmq",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     }, 
+    {
+      "appname": "nextcloud",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     }, 
+    {
+      "appname": "neo4j",
+      "version": ["5.3"],
       "distribution": ["community"],
       "platform": ["腾讯云"],
       "os": ["Ubuntu22.04"],
