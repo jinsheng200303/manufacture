@@ -1,77 +1,13 @@
 {  
-   "mailstone": "20230106",
+   "mailstone": "202301011",
    "task":[
     {
-      "appname": "redmine",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-    {
-      "appname": "scratch",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },  
-	{
-      "appname": "suitecrm",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },  
-	{
-      "appname": "tensorflow",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     }, 
-	 {
-      "appname": "vtiger",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     }, 
-	 {
       "appname": "zentao",
       "version": ["latest"],
       "distribution": ["community"],
-      "platform": ["腾讯云"],
+      "platform": ["腾讯云","华为云","阿里云"],
       "os": ["Ubuntu22.04"],
       "assignees": "张露"
-     }, 
-	 {
-      "appname": "zabbix",
-      "version": ["6.2"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     }, 
-	{
-      "appname": "superset",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     }, 
-    {
-      "appname": "seafile",
-      "version": ["latest"],
-      "distribution": ["community","enterprise"],
-      "platform": ["腾讯云"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     }	 
+     }
   ]
 }
