@@ -1,89 +1,17 @@
 {  
    "mailstone": "20230207",
    "task":[
-    {
-      "appname": "grafana",
-      "version": ["9.3.6"],
-      "distribution": ["community"],
-      "platform": ["阿里云","华为云","AWS"],
-      "os": ["Ubuntu"],
-      "assignees": "张露"
-     },	
-    {
-      "appname": "grafana",
-      "version": ["9.3.6"],
-      "distribution": ["community"],
-      "platform": ["Azure"],
-      "os": ["Centos7.9","Ubuntu22.04"],
-      "assignees": "张露"
-     },
-    {
-      "appname": "superset",
-      "version": ["2.0.1"],
-      "distribution": ["community"],
-      "platform": ["阿里云","华为云","AWS"],
-      "os": ["Ubuntu"],
-      "assignees": "张露"
-     },	
-    {
-      "appname": "superset",
-      "version": ["2.0.1"],
-      "distribution": ["community"],
-      "platform": ["Azure"],
-      "os": ["Centos7.9","Ubuntu22.04"],
-      "assignees": "张露"
-     },
-    {
-      "appname": "couchdb",
-      "version": ["3.3"],
-      "distribution": ["community"],
-      "platform": ["阿里云","华为云","AWS"],
-      "os": ["Ubuntu"],
-      "assignees": "张露"
-     },	
-    {
-      "appname": "couchdb",
-      "version": ["3.3"],
-      "distribution": ["community"],
-      "platform": ["Azure"],
-      "os": ["Centos7.9","Ubuntu22.04"],
-      "assignees": "张露"
-     },
-    {
-      "appname": "mongodb",
-      "version": ["6.0"],
-      "distribution": ["community"],
-      "platform": ["阿里云","华为云"],
-      "os": ["Ubuntu"],
-      "assignees": "张露"
-     },
-    {
-      "appname": "redis",
-      "version": ["7.0"],
-      "distribution": ["community"],
-      "platform": ["阿里云","华为云","AWS"],
-      "os": ["Ubuntu"],
-      "assignees": "张露"
-     },	
-    {
-      "appname": "redis",
-      "version": ["7.0"],
-      "distribution": ["community"],
-      "platform": ["Azure"],
-      "os": ["Centos7.9","Ubuntu22.04"],
-      "assignees": "张露"
-     },
      {
-      "appname": "neo4j",
-      "version": ["5.4"],
+      "appname": "onlyofficedoc",
+      "version": ["latest"],
       "distribution": ["community"],
-      "platform": ["阿里云","华为云","AWS"],
+      "platform": ["腾讯云","阿里云","华为云","AWS"],
       "os": ["Ubuntu"],
       "assignees": "张露"
      },	
     {
-      "appname": "neo4j",
-      "version": ["5.4"],
+      "appname": "onlyofficedoc",
+      "version": ["latest"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["Centos7.9","Ubuntu22.04"],
@@ -93,16 +21,8 @@
       "appname": "elastic",
       "version": ["8.6"],
       "distribution": ["community"],
-      "platform": ["阿里云","华为云"],
+      "platform": ["腾讯云","阿里云","华为云"],
       "os": ["Ubuntu"],
-      "assignees": "张露"
-     },
-    {
-      "appname": "postgresql",
-      "version": ["15"],
-      "distribution": ["community"],
-      "platform": ["阿里云"],
-      "os": ["Ubuntu22.04"],
       "assignees": "张露"
      }
   ]
