@@ -1,53 +1,60 @@
-{  
-   "mailstone": "20230222",
-   "task":[
-   {
-      "appname": "mingdao",
-      "version": ["3.7"],
-      "distribution": ["community"],
-      "platform": ["亚马逊中国"],
-      "os": ["AmazonLinux"],
-      "assignees": "张露"
-    },
-   {
-      "appname": "BT",
-      "version": ["7.9"],
-      "distribution": ["community"],
-      "platform": ["亚马逊中国"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },      
-   {
-      "appname": "Gitlab",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["亚马逊中国"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-   {
-      "appname": "superset",
-      "version": ["2.0"],
-      "distribution": ["community"],
-      "platform": ["亚马逊中国"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "MYSQL",
-      "version": ["8.0"],
-      "distribution": ["community"],
-      "platform": ["亚马逊中国"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "PostgreSQL",
-      "version": ["15"],
-      "distribution": ["community"],
-      "platform": ["亚马逊中国"],
-      "os": ["Ubuntu22.04"],
-      "assignees": "张露"
-     }
-  ]
+{
+	"mailstone": "20230222",
+	"task": [{
+			"appname": "GNOME",
+			"version": ["latest"],
+			"distribution": ["community"],
+			"platform": ["华为云"],
+			"os": ["Centos7.9"],
+			"assignees": "张露"
+		},
+		{
+			"appname": "KDE",
+			"version": ["latest"],
+			"distribution": ["community"],
+			"platform": ["华为云"],
+			"os": ["Centos7.9"],
+			"assignees": "张露"
+		},
+		{
+			"appname": "XFCE",
+			"version": ["latest"],
+			"distribution": ["community"],
+			"platform": ["华为云"],
+			"os": ["Ubuntu22.04"],
+			"assignees": "张露"
+		},
+		{
+			"appname": "Xfce",
+			"version": ["latest"],
+			"distribution": ["community"],
+			"platform": ["AWS"],
+			"os": ["Amazonlinux"],
+			"assignees": "张露"
+		},
+		{
+			"appname": "Mate",
+			"version": ["latest"],
+			"distribution": ["community"],
+			"platform": ["AWS"],
+			"os": ["Amazonlinux"],
+			"assignees": "张露"
+		},
+		{
+			"appname": "GNOME",
+			"version": ["latest"],
+			"distribution": ["community"],
+			"platform": ["AWS"],
+			"os": ["Ubuntu22.04"],
+			"assignees": "张露"
+		},
+		{
+			"appname": "XFCE",
+			"version": ["latest"],
+			"distribution": ["community"],
+			"platform": ["AWS"],
+			"os": ["Ubuntu22.04"],
+			"assignees": "张露"
+		}
+	]
 }
