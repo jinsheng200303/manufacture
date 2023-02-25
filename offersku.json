@@ -1,12 +1,77 @@
-{
-	"mailstone": "20230222",
-	"task": [{
-			"appname": "GNOME",
-			"version": ["latest"],
-			"distribution": ["community"],
-			"platform": ["阿里云"],
-			"os": ["Centos22.04"],
-			"assignees": "张露"
-		}
-	]
+{  
+   "mailstone": "20230228",
+   "task":[
+     {
+      "appname": "onlyoffice",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云","阿里云","华为云","AWS"],
+      "os": ["Ubuntu20.04"],
+      "assignees": "张露"
+     },	
+    {
+      "appname": "onlyoffice",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["Centos7.9","Ubuntu20.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "gitlab",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["腾讯云","阿里云","AWS"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },	
+     {
+      "appname": "gitlab",
+      "version": ["latest"],
+      "distribution": ["with jenkins"],
+      "platform": ["AWS"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "gitlab",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
+      "os": ["Ubuntu20.04"],
+      "assignees": "张露"
+     },	
+     {
+      "appname": "gitlab",
+      "version": ["latest"],
+      "distribution": ["极狐"],
+      "platform": ["华为云"],
+      "os": ["Ubuntu20.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "gitlab",
+      "version": ["latest"],
+      "distribution": ["极狐"],
+      "platform": ["腾讯云","阿里云"],
+      "os": ["Ubuntu22.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "gitlab",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["Centos7.9","Ubuntu22.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "gitlab",
+      "version": ["latest"],
+      "distribution": ["with jenkins"],
+      "platform": ["Azure"],
+      "os": ["Centos7.9","Ubuntu22.04"],
+      "assignees": "张露"
+     }
+  ]
 }
