@@ -2,16 +2,16 @@
    "mailstone": "20230412",
    "task":[
      {
-      "appname": "grafana",
-      "version": ["9.4.7"],
+      "appname": "jenkins",
+      "version": ["latest"],
       "distribution": ["community"],
       "platform": ["阿里云","华为云","AWS","Azure"],
       "os": ["ubuntu"],
       "assignees": "张露"
      },
     {
-      "appname": "grafana",
-      "version": ["9.4.7"],
+      "appname": "jenkins",
+      "version": ["latest"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
