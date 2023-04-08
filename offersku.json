@@ -2,16 +2,16 @@
    "mailstone": "20230412",
    "task":[
      {
-      "appname": "jenkins",
-      "version": ["latest"],
+      "appname": " onlyofficedocs",
+      "version": ["7.3"],
       "distribution": ["community"],
       "platform": ["阿里云","华为云","AWS","Azure"],
       "os": ["ubuntu"],
       "assignees": "张露"
      },
     {
-      "appname": "jenkins",
-      "version": ["latest"],
+      "appname": "onlyofficedocs",
+      "version": ["7.3"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
