@@ -1,9 +1,9 @@
 {  
-   "mailstone": "20230412",
+   "mailstone": "20230423",
    "task":[
      {
       "appname": " apitable",
-      "version": ["0.19.0"],
+      "version": ["0.20.0"],
       "distribution": ["community"],
       "platform": ["阿里云","华为云","AWS","Azure"],
       "os": ["ubuntu"],
@@ -11,7 +11,7 @@
      },
     {
       "appname": "apitable",
-      "version": ["0.19.0"],
+      "version": ["0.20.0"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
