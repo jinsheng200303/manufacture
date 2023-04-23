@@ -2,12 +2,36 @@
    "mailstone": "20230423",
    "task":[
      {
-      "appname": " apitable",
-      "version": ["0.20.0"],
+      "appname": " wordpress",
+      "version": ["6.2"],
       "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["ubuntu"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
       "assignees": "张露"
-     }
+     },
+    {
+      "appname": " ERPNext ",
+      "version": ["13"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+    },
+    {
+      "appname": " redis ",
+      "version": ["2.8"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+    },
+    {
+      "appname": " zabbix",
+      "version": ["6.1"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
   ]
 }
