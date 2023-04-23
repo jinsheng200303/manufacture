@@ -27,11 +27,11 @@
     },
     {
       "appname": " zabbix",
-      "version": ["6.1"],
+      "version": ["6.2"],
       "distribution": ["community"],
       "platform": ["AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
-     },
+     }
   ]
 }
