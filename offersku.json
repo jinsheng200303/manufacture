@@ -1,33 +1,41 @@
 {  
-   "mailstone": "20230423",
+   "mailstone": "20230508",
    "task":[
      {
-      "appname": " wordpress",
-      "version": ["6.2"],
+      "appname": " Odoo",
+      "version": ["15"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": " Odoo",
+      "version": ["14"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": " Odoo",
+      "version": ["13"],
       "distribution": ["community"],
       "platform": ["AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
     {
-      "appname": " ERPNext ",
-      "version": ["13"],
+      "appname": " Odoo",
+      "version": ["12"],
       "distribution": ["community"],
       "platform": ["AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
-    },
+     },
     {
-      "appname": " redis ",
-      "version": ["2.8"],
-      "distribution": ["community"],
-      "platform": ["AWS"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-    },
-    {
-      "appname": " zabbix",
-      "version": ["6.2"],
+      "appname": " HAProx",
+      "version": ["2.1"],
       "distribution": ["community"],
       "platform": ["AWS"],
       "os": ["ubuntu22.04"],
