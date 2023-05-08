@@ -1,43 +1,11 @@
 {  
-   "mailstone": "20230508",
+   "mailstone": "20230509",
    "task":[
-     {
-      "appname": " Odoo",
-      "version": ["15"],
-      "distribution": ["community"],
-      "platform": ["AWS"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": " Odoo",
-      "version": ["14"],
-      "distribution": ["community"],
-      "platform": ["AWS"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": " Odoo",
-      "version": ["13"],
-      "distribution": ["community"],
-      "platform": ["AWS"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
     {
-      "appname": " Odoo",
-      "version": ["12"],
+      "appname": " vtiger",
+      "version": ["latest"],
       "distribution": ["community"],
-      "platform": ["AWS"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-    {
-      "appname": " HAProx",
-      "version": ["2.1"],
-      "distribution": ["community"],
-      "platform": ["AWS"],
+      "platform": ["阿里云"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      }
