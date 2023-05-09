@@ -2,12 +2,156 @@
    "mailstone": "20230509",
    "task":[
     {
-      "appname": " vtiger",
-      "version": ["latest"],
+      "appname": "cloudbeaver",
+      "version": ["23.0.4"],
       "distribution": ["community"],
-      "platform": ["阿里云"],
-      "os": ["ubuntu22.04"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
       "assignees": "张露"
-     }
+     },
+    {
+      "appname": "drupal",
+      "version": ["10.0.9"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "onlyofficedoc",
+      "version": ["7.3"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "EspoCRM",
+      "version": ["7.4"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "9.5.1",
+      "version": ["grafana"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "Graylog",
+      "version": ["5.0.7"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "HAProxy",
+      "version": ["2.7"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "Moodle",
+      "version": ["4.2"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "matoma",
+      "version": ["4.14"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "8.0",
+      "version": ["mysql"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "neo4j",
+      "version": ["5.7"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "Nextcloud",
+      "version": ["26.0"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "odoo",
+      "version": ["16.0"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "1.7",
+      "version": ["Prestashop"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "rabbitmq",
+      "version": ["3.14"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "Redmine",
+      "version": ["5.0"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "redis",
+      "version": ["7.0"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+    {
+      "appname": "6.2",
+      "version": ["wordpress"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "Zabbix ",
+      "version": ["6.2"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     },
   ]
 }
