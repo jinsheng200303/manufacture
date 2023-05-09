@@ -138,20 +138,20 @@
       "assignees": "张露"
      },
     {
-      "appname": "6.2",
-      "version": ["wordpress"],
-      "distribution": ["community"],
-      "platform": ["阿里云ARM"],
-      "os": ["ubuntu20.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "Zabbix ",
+      "appname": "wordpress",
       "version": ["6.2"],
       "distribution": ["community"],
       "platform": ["阿里云ARM"],
       "os": ["ubuntu20.04"],
       "assignees": "张露"
      },
+     {
+      "appname": "Zabbix",
+      "version": ["6.2"],
+      "distribution": ["community"],
+      "platform": ["阿里云ARM"],
+      "os": ["ubuntu20.04"],
+      "assignees": "张露"
+     }
   ]
 }
