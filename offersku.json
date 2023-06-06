@@ -5,7 +5,7 @@
       "appname": "SRS",
       "version": ["6.0.45"],
       "distribution": ["community"],
-      "platform": [华为云"],
+      "platform": ["华为云"],
       "os": ["ubuntu20.04"],
       "assignees": "张露"
      },
@@ -13,7 +13,7 @@
       "appname": "matomo",
       "version": ["4.14"],
       "distribution": ["community"],
-      "platform": [华为云"],
+      "platform": ["华为云"],
       "os": ["ubuntu20.04"],
       "assignees": "张露"
      },
@@ -21,7 +21,7 @@
       "appname": "nextcloud",
       "version": ["26"],
       "distribution": ["community"],
-      "platform": [华为云"],
+      "platform": ["华为云"],
       "os": ["ubuntu20.04"],
       "assignees": "张露"
      },
@@ -29,7 +29,7 @@
       "appname": "odoo",
       "version": ["16"],
       "distribution": ["community"],
-      "platform": [华为云"],
+      "platform": ["华为云"],
       "os": ["ubuntu20.04"],
       "assignees": "张露"
      },
@@ -37,7 +37,7 @@
       "appname": "bt",
       "version": ["latest"],
       "distribution": ["community"],
-      "platform": [华为云"],
+      "platform": ["华为云"],
       "os": ["ubuntu20.04"],
       "assignees": "张露"
      },
@@ -45,7 +45,7 @@
       "appname": "docker",
       "version": ["latest"],
       "distribution": ["community"],
-      "platform": [华为云"],
+      "platform": ["华为云"],
       "os": ["ubuntu20.04"],
       "assignees": "张露"
      },
@@ -53,7 +53,7 @@
       "appname": "Superset",
       "version": ["2.0.1"],
       "distribution": ["community"],
-      "platform": [华为云"],
+      "platform": ["华为云"],
       "os": ["ubuntu20.04"],
       "assignees": "张露"
      },
@@ -61,7 +61,7 @@
       "appname": "Prestashop",
       "version": ["1.7"],
       "distribution": ["community"],
-      "platform": [华为云"],
+      "platform": ["华为云"],
       "os": ["ubuntu20.04"],
       "assignees": "张露"
      },      
@@ -69,7 +69,7 @@
       "appname": "GitLab",
       "version": ["15.11.5"],
       "distribution": ["community"],
-      "platform": ["Azure"],
+      "platform": ["华为云"],
       "os": ["Centos7.9"],
       "assignees": "张露"
      }
