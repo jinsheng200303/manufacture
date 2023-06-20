@@ -1,28 +1,76 @@
 {  
-   "mailstone": "20230608",
+   "mailstone": "20230621",
    "task":[
     {
-      "appname": "kodbox",
-      "version": ["1.39"],
+      "appname": "SRS",
+      "version": ["6.0.45"],
       "distribution": ["community"],
       "platform": ["华为云"],
-      "os": ["ubuntu20.04"],
+      "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "kodbox",
-      "version": ["1.39"],
+      "appname": "matomo",
+      "version": ["4.14"],
       "distribution": ["community"],
-      "platform": ["阿里云"],
+      "platform": ["华为云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+      {
+      "appname": "nextcloud",
+      "version": ["26"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "odoo",
+      "version": ["16"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "bt",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "wordpress",
+      "version": ["6.2"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "Superset",
+      "version": ["2.0.1"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "Prestashop",
+      "version": ["1.7"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },      
     {
-      "appname": "kodbox",
-      "version": ["1.39"],
+      "appname": "GitLab",
+      "version": ["15.11.5"],
       "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["ubuntu22.04"],
+      "platform": ["华为云"],
+      "os": ["Centos7.9"],
       "assignees": "张露"
      }
   ]
