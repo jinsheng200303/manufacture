@@ -1,43 +1,11 @@
 {  
-   "mailstone": "20230625",
+   "mailstone": "20230628",
    "task":[
     {
-      "appname": "SRS",
-      "version": ["6.0.45"],
+      "appname": "joomla",
+      "version": ["4.3"],
       "distribution": ["community"],
-      "platform": ["华为云"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "matomo",
-      "version": ["4.14"],
-      "distribution": ["community"],
-      "platform": ["华为云"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-      {
-      "appname": "nextcloud",
-      "version": ["26"],
-      "distribution": ["community"],
-      "platform": ["华为云"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "odoo",
-      "version": ["16"],
-      "distribution": ["community"],
-      "platform": ["华为云"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "bt",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["华为云"],
+      "platform": ["AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
@@ -45,32 +13,56 @@
       "appname": "wordpress",
       "version": ["6.2"],
       "distribution": ["community"],
-      "platform": ["华为云"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+      {
+      "appname": "wordpress",
+      "version": ["6.2"],
+      "distribution": ["with minio"],
+      "platform": ["AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "Superset",
-      "version": ["2.0.1"],
+      "appname": "erpnext ",
+      "version": ["13"],
       "distribution": ["community"],
-      "platform": ["华为云"],
+      "platform": ["AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "Prestashop",
-      "version": ["1.7"],
+      "appname": "erpnext ",
+      "version": ["14"],
       "distribution": ["community"],
-      "platform": ["华为云"],
+      "platform": ["AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
-     },      
-    {
-      "appname": "GitLab",
-      "version": ["15.11.5"],
+     },
+     {
+      "appname": "seafile ",
+      "version": ["10.0"],
       "distribution": ["community"],
-      "platform": ["华为云"],
-      "os": ["Centos7.9"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "knowage",
+      "version": ["7.4"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "suitecrm",
+      "version": ["8.2.4"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
       "assignees": "张露"
      }
   ]
