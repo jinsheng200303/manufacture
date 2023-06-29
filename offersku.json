@@ -1,11 +1,11 @@
 {  
-   "mailstone": "20230628",
+   "mailstone": "20230630",
    "task":[
-    {
-      "appname": "joomla",
-      "version": ["4.3"],
-      "distribution": ["community"],
-      "platform": ["AWS"],
+     {
+      "appname": "wordpress",
+      "version": ["6.2"],
+      "distribution": ["with matomo"],
+      "platform": ["Azure"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
@@ -13,6 +13,70 @@
       "appname": "wordpress",
       "version": ["6.2"],
       "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+      {
+      "appname": "wordpress",
+      "version": ["6.2"],
+      "distribution": ["with minio"],
+      "platform": ["Azure"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "wordpress",
+      "version": ["6.2"],
+      "distribution": ["with matomo"],
+      "platform": ["Aiyun"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "wordpress",
+      "version": ["6.2"],
+      "distribution": ["community"],
+      "platform": ["Aiyun"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+      {
+      "appname": "wordpress",
+      "version": ["6.2"],
+      "distribution": ["with minio"],
+      "platform": ["Aiyun"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "wordpress",
+      "version": ["6.2"],
+      "distribution": ["with matomo"],
+      "platform": ["腾讯云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "wordpress",
+      "version": ["6.2"],
+      "distribution": ["community"],
+      "platform": ["腾讯云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+      {
+      "appname": "wordpress",
+      "version": ["6.2"],
+      "distribution": ["with minio"],
+      "platform": ["腾讯云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "wordpress",
+      "version": ["6.2"],
+      "distribution": ["with matomo"],
       "platform": ["AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
@@ -21,47 +85,15 @@
       "appname": "wordpress",
       "version": ["6.2"],
       "distribution": ["with minio"],
-      "platform": ["AWS"],
+      "platform": ["华为云"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "erpnext ",
-      "version": ["13"],
-      "distribution": ["community"],
-      "platform": ["AWS"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "erpnext ",
-      "version": ["14"],
-      "distribution": ["community"],
-      "platform": ["AWS"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "seafile ",
-      "version": ["10.0"],
-      "distribution": ["community"],
-      "platform": ["AWS"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "knowage",
-      "version": ["7.4"],
-      "distribution": ["community"],
-      "platform": ["AWS"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "suitecrm",
-      "version": ["8.2.4"],
-      "distribution": ["community"],
-      "platform": ["AWS"],
+      "appname": "wordpress",
+      "version": ["6.2"],
+      "distribution": ["with matomo"],
+      "platform": ["华为云"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      }
