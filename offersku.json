@@ -32,7 +32,7 @@
       "platform": ["华为云"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
-     }
+     },
       {
       "appname": "onlyofficedocs",
       "version": ["7.4"],
