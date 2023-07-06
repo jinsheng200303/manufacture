@@ -1,98 +1,194 @@
 {  
-   "mailstone": "20230630",
+   "mailstone": "20230712",
    "task":[
      {
-      "appname": "wordpress",
-      "version": ["6.2"],
-      "distribution": ["with matomo"],
-      "platform": ["Azure"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "wordpress",
-      "version": ["6.2"],
+      "appname": "cloudbeaver",
+      "version": ["23.1.1"],
       "distribution": ["community"],
       "platform": ["Azure"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-      {
-      "appname": "wordpress",
-      "version": ["6.2"],
-      "distribution": ["with minio"],
-      "platform": ["Azure"],
-      "os": ["ubuntu22.04"],
+      "os": ["ubuntu22.04","Centos7.9"],
       "assignees": "张露"
      },
      {
-      "appname": "wordpress",
-      "version": ["6.2"],
-      "distribution": ["with matomo"],
-      "platform": ["Aiyun"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "wordpress",
-      "version": ["6.2"],
+      "appname": "cloudbeaver",
+      "version": ["23.1.1"],
       "distribution": ["community"],
-      "platform": ["Aiyun"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-      {
-      "appname": "wordpress",
-      "version": ["6.2"],
-      "distribution": ["with minio"],
-      "platform": ["Aiyun"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "wordpress",
-      "version": ["6.2"],
-      "distribution": ["with matomo"],
-      "platform": ["腾讯云"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "wordpress",
-      "version": ["6.2"],
-      "distribution": ["community"],
-      "platform": ["腾讯云"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-      {
-      "appname": "wordpress",
-      "version": ["6.2"],
-      "distribution": ["with minio"],
-      "platform": ["腾讯云"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
-      "appname": "wordpress",
-      "version": ["6.2"],
-      "distribution": ["with matomo"],
       "platform": ["AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
-      {
-      "appname": "wordpress",
-      "version": ["6.2"],
-      "distribution": ["with minio"],
-      "platform": ["华为云"],
+     {
+      "appname": "cloudbeaver",
+      "version": ["23.1.1"],
+      "distribution": ["community"],
+      "platform": ["阿里云"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "wordpress",
-      "version": ["6.2"],
-      "distribution": ["with matomo"],
+      "appname": "cloudbeaver",
+      "version": ["23.1.1"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+      {
+      "appname": "codeserver",
+      "version": ["4.14.1"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["ubuntu22.04","Centos7.9"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "codeserver",
+      "version": ["4.14.1"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "codeserver",
+      "version": ["4.14.1"],
+      "distribution": ["community"],
+      "platform": ["阿里云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "codeserver",
+      "version": ["4.14.1"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+      {
+      "appname": "codeserver",
+      "version": ["4.14.1"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["ubuntu22.04","Centos7.9"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "codeserver",
+      "version": ["4.14.1"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "codeserver",
+      "version": ["4.14.1"],
+      "distribution": ["community"],
+      "platform": ["阿里云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "codeserver",
+      "version": ["4.14.1"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+      {
+      "appname": "couchdb",
+      "version": ["3.3.2"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["ubuntu22.04","Centos7.9"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "couchdb",
+      "version": ["3.3.2"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "couchdb",
+      "version": ["3.3.2"],
+      "distribution": ["community"],
+      "platform": ["阿里云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "couchdb",
+      "version": ["3.3.2"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+      {
+      "appname": "dolibarr",
+      "version": ["17.0.2"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["ubuntu22.04","Centos7.9"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "dolibarr",
+      "version": ["17.0.2"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "dolibarr",
+      "version": ["17.0.2"],
+      "distribution": ["community"],
+      "platform": ["阿里云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "dolibarr",
+      "version": ["17.0.2"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+      {
+      "appname": "gitlab",
+      "version": ["16.0.7-ce.0"],
+      "distribution": ["community"],
+      "platform": ["Azure"],
+      "os": ["ubuntu22.04","Centos7.9"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "gitlab",
+      "version": ["16.0.7-ce.0"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "gitlab",
+      "version": ["16.0.7-ce.0"],
+      "distribution": ["community"],
+      "platform": ["阿里云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "gitlab",
+      "version": ["16.0.7-ce.0"],
+      "distribution": ["community"],
       "platform": ["华为云"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
