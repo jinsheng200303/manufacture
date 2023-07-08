@@ -1,5 +1,5 @@
 {  
-   "mailstone": "20230625",
+   "mailstone": "20230709",
    "task":[
     {
       "appname": "SRS",
@@ -19,7 +19,7 @@
      },
       {
       "appname": "nextcloud",
-      "version": [latest"],
+      "version": ["latest"],
       "distribution": ["community"],
       "platform": ["华为云"],
       "os": ["ubuntu22.04"],
