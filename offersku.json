@@ -1,5 +1,5 @@
 {  
-   "mailstone": "20230709",
+   "mailstone": "20230721",
    "task":[
     {
       "appname": "SRS",
@@ -11,6 +11,14 @@
      },
      {
       "appname": "matomo",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["华为云"],
+      "os": ["ubuntu22.04"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "portainer",
       "version": ["latest"],
       "distribution": ["community"],
       "platform": ["华为云"],
@@ -42,14 +50,6 @@
       "assignees": "张露"
      },
      {
-      "appname": "Superset",
-      "version": ["latest"],
-      "distribution": ["community"],
-      "platform": ["华为云"],
-      "os": ["ubuntu22.04"],
-      "assignees": "张露"
-     },
-     {
       "appname": "Prestashop",
       "version": ["1.7"],
       "distribution": ["community"],
@@ -62,7 +62,7 @@
       "version": ["latest"],
       "distribution": ["community"],
       "platform": ["华为云"],
-      "os": ["Centos7.9"],
+      "os": ["ubuntu22.04"],
       "assignees": "张露"
      }
   ]
