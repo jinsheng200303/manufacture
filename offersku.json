@@ -1,17 +1,17 @@
 {  
-   "mailstone": "20230814",
+   "mailstone": "20230816",
    "task":[
     {
-      "appname": "magento",
-      "version": ["2.6"],
+      "appname": "superset",
+      "version": ["2.1.0"],
       "distribution": ["community"],
-      "platform": ["阿里云","Azure","AWS"],
+      "platform": ["阿里云","腾讯云","华为云","Azure","AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "magento",
-      "version": ["2.6"],
+      "appname": "superset",
+      "version": ["2.1.0"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
