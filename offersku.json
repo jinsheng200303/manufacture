@@ -3,7 +3,7 @@
    "task":[
     {
       "appname": "postgresql",
-      "version": ["15","14","13","12","11","10","9.6"],
+      "version": ["10","9.6"],
       "distribution": ["community"],
       "platform": ["阿里云","腾讯云","Azure","AWS"],
       "os": ["ubuntu22.04"],
@@ -11,7 +11,7 @@
      },
      {
       "appname": "postgresql",
-      "version": ["15","14","13","12","11","10","9.6"],
+      "version": ["10","9.6"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
