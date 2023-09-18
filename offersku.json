@@ -1,17 +1,17 @@
 {  
-   "mailstone": "20230913",
+   "mailstone": "20230919",
    "task":[
      {
-      "appname": "magento",
-      "version": ["2.4.6"],
+      "appname": "prestashop",
+      "version": ["8],
       "distribution": ["community"],
       "platform": ["阿里云","腾讯云","AWS","Azure"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "magento",
-      "version": ["2.4.6"],
+      "appname": "prestashop",
+      "version": ["8],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
