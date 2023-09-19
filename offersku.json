@@ -1,20 +1,76 @@
 {  
-   "mailstone": "20230919",
+   "mailstone": "20230924",
    "task":[
      {
-      "appname": "prestashop",
-      "version": ["8"],
+      "appname": "grafana",
+      "version": ["latest"],
       "distribution": ["community"],
-      "platform": ["阿里云","腾讯云","AWS","Azure"],
-      "os": ["ubuntu22.04"],
+      "platform": ["AWS"],
+      "os": ["AmazonLinux"],
       "assignees": "张露"
      },
      {
-      "appname": "prestashop",
-      "version": ["8"],
+      "appname": "superset",
+      "version": ["latest"],
       "distribution": ["community"],
-      "platform": ["Azure"],
-      "os": ["centos7.9"],
+      "platform": ["AWS"],
+      "os": ["AmazonLinux"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "jenkins",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["AmazonLinux"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "magento",
+      "version": ["2.4.6"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["AmazonLinux"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "haproxy",
+      "version": ["1.8"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["AmazonLinux"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "mysql",
+      "version": ["8.0","5.6"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["AmazonLinux"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "mongodb",
+      "version": ["3.2","4.4"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["AmazonLinux"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "rabbitmq",
+      "version": ["latest"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["AmazonLinux"],
+      "assignees": "张露"
+     },
+     {
+      "appname": "mariadb",
+      "version": ["10.3"],
+      "distribution": ["community"],
+      "platform": ["AWS"],
+      "os": ["AmazonLinux"],
       "assignees": "张露"
      }
   ]
