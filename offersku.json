@@ -2,64 +2,64 @@
    "mailstone": "20231112",
    "task":[
      {
-      "appname": "haproxy",
-      "version": ["2.9"],
+      "appname": "ghost",
+      "version": ["5.71"],
       "distribution": ["community"],
       "platform": ["阿里云","Azure","AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "haproxy",
-      "version": ["2.9"],
+      "appname": "ghost",
+      "version": ["5.71"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
       "assignees": "张露"
      },
      {
-      "appname": "mysql",
-      "version": ["8.2"],
+      "appname": "joomla",
+      "version": ["5.0"],
       "distribution": ["community"],
       "platform": ["阿里云","Azure","AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "mysql",
-      "version": ["8.2"],
+      "appname": "joomla",
+      "version": ["5.0"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
       "assignees": "张露"
      },
      {
-      "appname": "apitalbe",
-      "version": ["1.4"],
+      "appname": "graylog",
+      "version": ["5.2"],
       "distribution": ["community"],
       "platform": ["阿里云","Azure","AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "apitalbe",
-      "version": ["1.4"],
+      "appname": "graylog",
+      "version": ["5.2"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
       "assignees": "张露"
      },
      {
-      "appname": "drupal",
-      "version": ["10.1.5"],
+      "appname": "moodle",
+      "version": ["4.3"],
       "distribution": ["community"],
       "platform": ["阿里云","Azure","AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "drupal",
-      "version": ["10.1.5"],
+      "appname": "moodle",
+      "version": ["4.3"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
