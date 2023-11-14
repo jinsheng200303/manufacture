@@ -1,17 +1,17 @@
 {  
-   "mailstone": "20231112",
+   "mailstone": "20231116",
    "task":[
      {
-      "appname": "suitecrm",
-      "version": ["8.4"],
+      "appname": "drupal",
+      "version": ["10.1.5"],
       "distribution": ["community"],
       "platform": ["阿里云","Azure","AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "张露"
      },
      {
-      "appname": "suitecrm",
-      "version": ["8.4"],
+      "appname": "drupal",
+      "version": ["10.1.5"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
