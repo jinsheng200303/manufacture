@@ -2,48 +2,48 @@
    "mailstone": "20231214",
    "task":[
      {
-      "appname": "cloudbeaver",
-      "version": ["23.3"],
+      "appname": "elastic",
+      "version": ["8.11"],
       "distribution": ["community"],
       "platform": ["阿里云","Azure","AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "周亚楠"
      },
      {
-      "appname": "cloudbeaver",
-      "version": ["23.3.0"],
+      "appname": "elastic",
+      "version": ["8.11"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
       "assignees": "周亚楠"
      },
      {
-      "appname": "codeserver",
-      "version": ["4.19"],
+      "appname": "ghost",
+      "version": ["5.75"],
       "distribution": ["community"],
       "platform": ["阿里云","Azure","AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "周亚楠"
      },
      {
-      "appname": "codeserver",
-      "version": ["4.19"],
+      "appname": "ghost",
+      "version": ["5.75"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
       "assignees": "周亚楠"
      },
      {
-      "appname": "couchdb",
-      "version": ["3.3.3"],
+      "appname": "grafana",
+      "version": ["10.2"],
       "distribution": ["community"],
       "platform": ["阿里云","Azure","AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "周亚楠"
      },
      {
-      "appname": "couchdb",
-      "version": ["3.3.3"],
+      "appname": "grafana",
+      "version": ["10.2"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
