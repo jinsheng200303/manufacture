@@ -2,48 +2,48 @@
    "mailstone": "20231214",
    "task":[
      {
-      "appname": "jenkins",
-      "version": ["2.435"],
+      "appname": "mattermost",
+      "version": ["9.3"],
       "distribution": ["community"],
       "platform": ["阿里云","Azure","AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "周亚楠"
      },
      {
-      "appname": "jenkins",
-      "version": ["2.435"],
+      "appname": "mattermost",
+      "version": ["9.3"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
       "assignees": "周亚楠"
      },
      {
-      "appname": "kodbox",
-      "version": ["1.4505"],
+      "appname": "mediawiki",
+      "version": ["1.4"],
       "distribution": ["community"],
       "platform": ["阿里云","Azure","AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "周亚楠"
      },
      {
-      "appname": "kodbox",
-      "version": ["1.4505"],
+      "appname": "mediawiki",
+      "version": ["1.4"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
       "assignees": "周亚楠"
      },
      {
-      "appname": "matomo",
-      "version": ["4.16"],
+      "appname": "moodle",
+      "version": ["4.3"],
       "distribution": ["community"],
       "platform": ["阿里云","Azure","AWS"],
       "os": ["ubuntu22.04"],
       "assignees": "周亚楠"
      },
      {
-      "appname": "matomo",
-      "version": ["4.16"],
+      "appname": "moodle",
+      "version": ["4.3"],
       "distribution": ["community"],
       "platform": ["Azure"],
       "os": ["centos7.9"],
