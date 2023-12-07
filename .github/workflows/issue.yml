@@ -53,7 +53,7 @@ jobs:
             --data '{"query":"query{organization(login: \"Websoft9\") {projectV2(number: 11){id}}}"}' | jq -r .data.organization.projectV2.id)
         echo $project_id
         declare -A map
-        map=(["童颖佳"]="Tooy1011" ["张露"]="zl-go" ["王思宇"]="LalicNine" ["徐月婷"]="xyt52")
+        map=(["童颖佳"]="Tooy1011" ["张露"]="zl-go" ["王思宇"]="LalicNine" ["徐月婷"]="xyt52" ["宋美欣"]="auaaaa"  ["刘毓灵"]="lessfrim"   ["周亚楠"]="Camelliw")
         
         # 创建issue
         for ((index=0;index<$length;index++));do
