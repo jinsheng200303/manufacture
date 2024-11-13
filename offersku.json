@@ -3,19 +3,11 @@
    "task":[
      {
       "appname": "redis",
+      "version": ["7.2"],
       "distribution": ["企业版"],
       "platform": ["AWS"],
       "os": ["ubuntu22.04,debian12"],
-      "assignees": "周亚楠",
-      "updateornew": "update"
-     },
-     {
-      "appname": "websoft9",
-      "distribution": ["企业版"],
-      "platform": ["Azure","AWS"],
-      "os": ["ubuntu22.04"],
-      "assignees": "周亚楠",
-      "updateornew": "new"
+      "assignees": "周亚楠"
      }
   ]
 }
