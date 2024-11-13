@@ -44,7 +44,7 @@ jobs:
             https://api.github.com/repos/${{github.repository_owner}}/manufacture/milestones \
             -d '{"title":'$milestone',"state":"open"}'
         fi
-        
+        # TODO
         list=$(jq "[.task[] | {appname:.appname,version:.version[],distribution:.distribution[],platform:.platform[],os:.os[],assignees:.assignees}]" offersku.json)
         length=$(echo $list | jq '.|length')
         project_id=$(curl --request POST \
@@ -53,7 +53,7 @@ jobs:
             --data '{"query":"query{organization(login: \"Websoft9\") {projectV2(number: 11){id}}}"}' | jq -r .data.organization.projectV2.id)
         echo $project_id
         declare -A map
-        map=(["童颖佳"]="Tooy1011" ["张露"]="zl-go" ["王思宇"]="LalicNine" ["徐月婷"]="xyt52" ["宋美欣"]="auaaaa"  ["刘毓灵"]="lessfrim"   ["周亚楠"]="Camelliw")
+        map=(["金晟"]="jinsheng200303")
         
         # 创建issue
         for ((index=0;index<$length;index++));do
